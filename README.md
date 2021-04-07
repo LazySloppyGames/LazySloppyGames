@@ -8,17 +8,7 @@
 
 - 📞 As for contacting me (who the heck would want to?), here is a link to a YouTube channel I made a while back. Nothing really on it right now: https://www.youtube.com/channel/UCI-yvwjHjvVsJe2GyB9dAzg
 
-                \||/
-                |  @___oo
-      /\  /\   / (__,,,,|
-     ) /^\) ^\/ _)
-     )   /^\/   _)
-     )   _ /  / _)
- /\  )/\/ ||  | )_)
-<  >      |(,,) )__)
- ||      /    \)___)\
- | \____(      )___) )___
-  \______(_______;;; __;;;
+:oD
 
 <!---
 LazySloppyGames/LazySloppyGames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
